@@ -73,7 +73,7 @@ More projects will be added as I grow and learn.
 🤝 Let’s Connect
 
 📧 Email: himanshu2005gupta@gmail.com
-💼 LinkedIn: https://www.linkedin.com/feed/
+💼 LinkedIn: https://www.linkedin.com/in/himanshu-gupta-9b5490338/
 💻 GitHub: https://github.com
 
 ⸻
