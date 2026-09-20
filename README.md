@@ -196,6 +196,24 @@ Insights and Intelligence
 
 <br/>
 
+## // GITHUB METRICS
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/himaaanshuu/himaaanshuu/metrics/metrics.svg" alt="GitHub Metrics" width="100%" />
+
+<br/>
+
+> Auto-generated every 12 hours via lowlighter/metrics
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
 ## // FEATURED PROJECTS
 
 <table>
