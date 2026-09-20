@@ -11,6 +11,15 @@
 
 **Full-Stack Developer  /  Data Science  /  Machine Learning**
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=himaaanshuu&label=Profile+Views&color=58a6ff&style=flat-square)
+![Followers](https://img.shields.io/github/followers/himaaanshuu?label=Followers&style=flat-square&color=58a6ff)
+![Stars](https://img.shields.io/github/stars/himaaanshuu?label=Stars&style=flat-square&color=58a6ff)
+![Repos](https://img.shields.io/github/repos/himaaanshuu?label=Repos&style=flat-square&color=58a6ff)
+![CGPA](https://img.shields.io/badge/CGPA-8.73-blue?style=flat-square)
+![Open to Internships](https://img.shields.io/badge/Open_to-Internships-brightgreen?style=flat-square)
+
 </div>
 
 ---
@@ -20,15 +29,15 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   $ whoami                                                       ║
+║   whoami                                                         ║
 ║                                                                  ║
-║   Name ............. Himanshu Gupta                              ║
+║   Name ............. himanshu Gupta                              ║
 ║   Role ............. CS Student | Developer                      ║
 ║   Specialization ... Data Science                                ║
 ║   Location ......... India                                       ║
 ║   Status ........... Open to Internships                         ║
 ║                                                                  ║
-║   $ cat current_focus.txt                                        ║
+║   cat current_focus.txt                                          ║
 ║                                                                  ║
 ║   > Data Structures & Algorithms                                 ║
 ║   > Data Science & Machine Learning                              ║
@@ -186,6 +195,10 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                  G I T H U B   A N A L Y T I C S                 ║
 ╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   Profile: github.com/himaaanshuu                                ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -194,6 +207,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=himaaanshuu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaaanshuu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages" />
+
+![Commit Activity](https://img.shields.io/github/commit-activity/w/himaaanshuu/himaaanshuu?style=flat-square&color=58a6ff)
+![Commit Count](https://img.shields.io/github/commits-since/himaaanshuu/himaaanshuu/2024-01-01?style=flat-square&color=58a6ff)
 
 </div>
 
@@ -206,6 +222,13 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=himaaanshuu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="90%" alt="Activity Graph" />
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaaanshuu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&show=reviews,prs,issues,contributions)
+![Trophies](https://github-profile-trophy.vercel.app/?username=himaaanshuu&theme=dark&no-frame=true&no-bg=true&column=7)
 
 </div>
 
@@ -920,7 +943,7 @@ A tool that analyzes GitHub repositories, breaks them into learning levels, expl
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   $ echo "Build. Learn. Ship."                                   ║
+║   echo "Build. Learn. Ship."                                     ║
 ║                                                                  ║
 ║   Build. Learn. Ship.                                            ║
 ║                                                                  ║
