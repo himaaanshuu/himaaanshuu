@@ -291,20 +291,6 @@ More projects added as I keep building.
 
 <br/>
 
-## // CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/himaaanshuu/himaaanshuu/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="80%" />
-
-<br/>
-
-> Automated daily via GitHub Actions
-
-</div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
