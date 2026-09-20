@@ -262,32 +262,17 @@ More projects added as I keep building.
 
 <br/>
 
-## // GITHUB ANALYTICS
+## // CONTRIBUTION SNAKE
 
-<table>
-<tr>
-<td width="50%" align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=himaaanshuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="165" alt="Stats" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaaanshuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=c9d1d9" height="165" alt="Languages" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himaaanshuu&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="70%" alt="Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=himaaanshuu&theme=tokyonight&no-frame=true&row=1&column=6&no-bg=true" width="80%" alt="Trophies" />
+<img src="https://raw.githubusercontent.com/himaaanshuu/himaaanshuu/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="80%" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+> Automated daily via GitHub Actions
+
+</div>
 
 <br/>
 
