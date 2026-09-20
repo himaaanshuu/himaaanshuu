@@ -26,7 +26,7 @@
 ║                                                                  ║
 ║   whoami                                                         ║
 ║                                                                  ║
-║   Name ............. himanshu Gupta                              ║
+║   Name ............. Himanshu Gupta                              ║
 ║   Role ............. CS Student | Developer                      ║
 ║   Specialization ... Data Science                                ║
 ║   Location ......... India                                       ║
@@ -220,13 +220,6 @@
 
 </div>
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaaanshuu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&show=reviews,prs,issues,contributions)
-![Trophies](https://github-profile-trophy.vercel.app/?username=himaaanshuu&theme=dark&no-frame=true&no-bg=true&column=7)
-
-</div>
-
 ---
 
 <div align="center">
@@ -242,12 +235,6 @@
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himaaanshuu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
