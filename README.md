@@ -58,7 +58,24 @@ I build real, working products end to end — from database and APIs up to UI. F
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himaaanshuu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" width="100%" alt="activity" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himaaanshuu&theme=tokyonight" width="100%" alt="contributions" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himaaanshuu&theme=tokyonight&utcOffset=5.5" width="49%" alt="productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himaaanshuu&theme=tokyonight" width="49%" alt="repos per language" />
+
+</div>
+
+---
+
+## Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/himaaanshuu/himaaanshuu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
+
+*It eats my contributions every night via GitHub Actions.*
 
 </div>
 
