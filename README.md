@@ -6,10 +6,10 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=himaaanshuu&label=views&color=58a6ff&style=flat-square" alt="views" />
-<img src="https://img.shields.io/github/followers/himaaanshuu?style=flat-square&color=58a6ff&label=followers" alt="followers" />
 <img src="https://img.shields.io/badge/CGPA-8.73-58a6ff?style=flat-square" alt="cgpa" />
-<img src="https://img.shields.io/badge/open_to-internships-brightgreen?style=flat-square" alt="internships" />
+<img src="https://img.shields.io/badge/B.Tech-CSE_Data_Science-58a6ff?style=flat-square" alt="degree" />
+<img src="https://img.shields.io/badge/Galgotias_University-58a6ff?style=flat-square" alt="university" />
+<img src="https://img.shields.io/badge/Class_of-2028-58a6ff?style=flat-square" alt="graduation" />
 
 </div>
 
